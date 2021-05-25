@@ -1,0 +1,3 @@
+/home/ankit/c++/hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/ankit/c++/hello_world/build/CMakeFiles/hello.dir
+/home/ankit/c++/hello_world/build/CMakeFiles/edit_cache.dir
